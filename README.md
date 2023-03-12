@@ -13,3 +13,5 @@ I want constrant sychronization between teh desired state & current state on res
 That practically means that we have ONE API to rule them all (applications, resources etc.), and this API is k8s API is gettting close to that.
 
 * A gitOps kind of tool that will help me 
+
+Therefore combine a gitops (argo) with crossplane (both native in k8s) manages infrastracture and application while providing auto synch with gitub repositories and CD.
